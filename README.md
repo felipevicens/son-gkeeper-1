@@ -1,4 +1,5 @@
 [![Build Status](http://jenkins.sonata-nfv.eu/buildStatus/icon?job=son-gkeeper)](http://jenkins.sonata-nfv.eu/job/son-gkeeper)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffelipevicens%2Fson-gkeeper.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffelipevicens%2Fson-gkeeper?ref=badge_shield)
 
 # SON-GKEEPER
 This is [SONATA](http://www.sonata-nfv.eu)'s Service Platform Gatekeeper's repository.
@@ -116,6 +117,9 @@ Please refer to the [Usage documentation wiki pages](https://github.com/sonata-n
 The license of the SONATA Gatekeeper is Apache 2.0 (please see the [license](https://github.com/sonata-nfv/son-editorgkeeper/blob/master/LICENSE) file).
 
 ---
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffelipevicens%2Fson-gkeeper.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffelipevicens%2Fson-gkeeper?ref=badge_large)
+
 #### Lead Developers
 
 The following lead developers are responsible for this repository and have admin rights. They can, for example, merge pull requests.
